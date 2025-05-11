@@ -44,7 +44,7 @@ export default class implements Command {
                 option.setName("immediate").setDescription("Add track to the front of the queue")
             )
             .addBooleanOption((option) =>
-                option.setName("shuffle").setDescription("Ahuffle the input if you're adding multiple tracks")
+                option.setName("shuffle").setDescription("Shuffle the input if you're adding multiple tracks")
             )
             .addBooleanOption((option) => option.setName("split").setDescription("If a track has chapters, split it"))
             .addBooleanOption((option) => option.setName("skip").setDescription("Skip the currently playing track"));
