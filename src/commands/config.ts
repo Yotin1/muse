@@ -137,7 +137,7 @@ export default class implements Command {
                     },
                 });
 
-                await interaction.reply("👍 limit updated");
+                await interaction.reply("Limit updated");
 
                 break;
             }
@@ -154,7 +154,7 @@ export default class implements Command {
                     },
                 });
 
-                await interaction.reply("👍 wait delay updated");
+                await interaction.reply("Wait delay updated");
 
                 break;
             }
@@ -171,7 +171,7 @@ export default class implements Command {
                     },
                 });
 
-                await interaction.reply("👍 leave setting updated");
+                await interaction.reply("Leave setting updated");
 
                 break;
             }
@@ -188,7 +188,7 @@ export default class implements Command {
                     },
                 });
 
-                await interaction.reply("👍 queue add notification setting updated");
+                await interaction.reply("Queue add notification setting updated");
 
                 break;
             }
@@ -205,7 +205,7 @@ export default class implements Command {
                     },
                 });
 
-                await interaction.reply("👍 auto announce setting updated");
+                await interaction.reply("Auto announce setting updated");
 
                 break;
             }
@@ -222,7 +222,7 @@ export default class implements Command {
                     },
                 });
 
-                await interaction.reply("👍 volume setting updated");
+                await interaction.reply("Volume setting updated");
 
                 break;
             }
@@ -239,7 +239,7 @@ export default class implements Command {
                     },
                 });
 
-                await interaction.reply("👍 default queue page size updated");
+                await interaction.reply("Default queue page size updated");
 
                 break;
             }
@@ -256,7 +256,7 @@ export default class implements Command {
                     },
                 });
 
-                await interaction.reply("👍 turn down volume setting updated");
+                await interaction.reply("Turn down volume setting updated");
 
                 break;
             }
@@ -273,7 +273,7 @@ export default class implements Command {
                     },
                 });
 
-                await interaction.reply("👍 turn down volume target setting updated");
+                await interaction.reply("Turn down volume target setting updated");
 
                 break;
             }
