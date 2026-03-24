@@ -107,3 +107,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+.nvmrc
+compose.yaml
+.vscode/
